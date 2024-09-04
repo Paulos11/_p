@@ -1,0 +1,76 @@
+.test {
+  color: red;
+}
+
+.div1 {
+  background-color: rgb(214, 214, 214);
+  height: 50px;
+}
+
+.div1 ul {
+  list-style: none;
+  display: flex;
+  justify-content:center;
+ 
+}
+
+.div1 ul li {
+  margin-right: 15px; /* Optional: adds space between list items */
+}
+
+.div1 ul li a {
+  text-decoration: none;
+  color: black;
+  display: inline-block; /* This makes the links behave like inline-block elements */
+  padding: 10px 15px; /* Add some padding to the links */
+}
+
+
+.div1 ul li:hover{
+  background: red;
+
+}
+
+.div1 ul li a:hover{
+  color: white;
+}
+
+.div2{
+  padding: 20px;
+}
+
+.port{
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+
+.port2 button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.port2 button:hover{
+  color: gray ;
+  background-color: wheat;
+}
+
+.port2 h1{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(56, 56, 56);
+}
+
+.port2 p{
+  color: gray;
+
+}
+
+.port2 p:hover{
+ color: green;
+  
+}
