@@ -74,3 +74,67 @@
  color: green;
   
 }
+
+h3{
+  font-size: 50px;
+}
+
+#testid{
+  font-size: 60px;
+}
+
+.forms{
+  border: 1px solid blue;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  justify-content: start;
+  padding: 20px;
+}
+
+.label1{
+  font-size: 20px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.forms form input{
+  padding: 10px 50px 10px 5px;
+}
+
+table {
+
+}
+
+th{
+  padding: 10px;
+background-image: url('https://madmuscles.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F18-29v5.0024e0ba.png&w=256&q=100');
+background-repeat: no-repeat;
+border: 1px solid ;
+border-top: 2px solid red;
+
+}
+
+
+.divs{
+  height: 300px;
+  width: 300px;
+  background-color: rebeccapurple;
+  margin-bottom: 20px;
+  
+}
+
+
+.divs1{
+margin-left: 20px;
+  height: 300px;
+  width: 300px;
+  background-color: rgb(155, 95, 17);
+}
+
+.main{
+  display: flex;
+}
+
+body{
+  background-color: black;
+}
